@@ -1,4 +1,4 @@
-Análisis Exploratorio del Dataset GDSC en R / Exploratory Analysis of the GDSC Dataset in R
+# Análisis Exploratorio del Dataset GDSC en R / Exploratory Analysis of the GDSC Dataset in R
 📌 Descripción del Proyecto / Project Description
 Este repositorio contiene un análisis exploratorio de datos biomédicos utilizando el dataset GDSC (Genomics of Drug Sensitivity in Cancer).
 El objetivo fue integrar datos clínicos, moleculares y farmacológicos de líneas celulares cancerosas para preparar un dataset consolidado que pueda utilizarse en futuras tareas de modelado predictivo en oncología.
